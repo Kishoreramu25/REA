@@ -1,0 +1,15 @@
+appId: com.esec.transport
+---
+- tapOn:
+    point: "75%,70%"
+- tapOn:
+    point: "75%,70%"
+- tapOn:
+    point: "75%,70%"
+- tapOn:
+    point: "75%,70%"
+- tapOn:
+    point: "75%,70%"
+- tapOn:
+    point: "75%,70%"
+- takeScreenshot: "e2e/screenshots/98_after_driver_login"

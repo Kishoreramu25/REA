@@ -1,0 +1,4 @@
+appId: com.esec.transport
+---
+- tapOn: "Create Bus Route"
+- takeScreenshot: "e2e/screenshots/85_after_maestro_tap"

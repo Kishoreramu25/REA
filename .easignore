@@ -1,0 +1,6 @@
+# EAS Build ignore
+node_modules/
+.expo/
+dist/
+web-build/
+*.log
